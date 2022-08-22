@@ -1,0 +1,6 @@
+__specs__ -> test cases unit cases jest
+components --> UI components
+constants --> constant variables
+service --> API call
+state --> reducers
+store --> 
